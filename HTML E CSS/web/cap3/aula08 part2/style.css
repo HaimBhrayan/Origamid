@@ -1,0 +1,19 @@
+div {
+  position: relative;
+  border: 2px solid #ccc;
+  margin-top: 40px;
+  padding: 20px 20px 40px 20px;
+}
+span {
+  position: absolute;
+  background: #e7e7e7;
+  border: 2px solid #ccc;
+  padding: 20px;
+  top: -20px;
+}
+.fixo {
+  position: fixed;
+  left: 20px;
+  right: 20px;
+  bottom: 10px;
+}
