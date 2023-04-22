@@ -158,7 +158,8 @@ footer {
     width: 90%;
   }
   #botao {
-    padding: 10px 30px;
+    display: flex;
+    flex-wrap: nowrap;
   }
 }
 @media (max-width: 650px) {
@@ -179,7 +180,8 @@ footer {
     grid-template-columns: 1fr;
   }
   #botao {
-    place-self: center;
+    display: flex;
+    flex-wrap: nowrap;
   }
 }
 @media (max-width: 450px) {
@@ -214,7 +216,7 @@ footer {
     font-size: 0.8rem;
   }
   #botao {
-    justify-self: center;
-    padding: 5px 20px;
+    display: flex;
+    flex-wrap: nowrap;
   }
 }
