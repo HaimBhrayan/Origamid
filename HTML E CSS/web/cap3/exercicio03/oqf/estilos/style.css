@@ -158,7 +158,7 @@ footer {
     width: 90%;
   }
   #botao {
-    display: block;
+    padding: 10px 30px;
   }
 }
 @media (max-width: 650px) {
