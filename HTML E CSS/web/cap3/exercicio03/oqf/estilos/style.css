@@ -158,8 +158,7 @@ footer {
     width: 90%;
   }
   #botao {
-    display: flex;
-    flex-wrap: nowrap;
+    display: block;
   }
 }
 @media (max-width: 650px) {
