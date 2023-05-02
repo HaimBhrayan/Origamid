@@ -10,6 +10,7 @@
 }
 .introducao img {
   max-width: 100%;
+  border-radius: 10px;
 }
 .introducao h1 {
   font-size: 4.5rem;
